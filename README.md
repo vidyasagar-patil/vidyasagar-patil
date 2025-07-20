@@ -73,10 +73,10 @@ Welcome to **Vidyasagar Patil**
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=vidyasagar-patil&show_icons=true&theme=tokyonight" width="100%"/>
     </td>
-    <td>
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar-patil&layout=compact&theme=tokyonight" width="100%"/>
     </td>
   </tr>
