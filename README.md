@@ -83,25 +83,8 @@ Welcome to **Vidyasagar Patil**
 
 ![DevOps](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ## 🎥 DevOps in Action
-
 <p align="center">
-  <!-- DevOps Animation -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-  <!-- CI/CD Loop -->
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" />
-
-  <!-- Server Room / Data -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-
-  <!-- Code to Cloud -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-
-  <!-- Kubernetes Deployment -->
-  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="100%" />
-
-  <!-- Infrastructure as Code -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 </p>
 
 ---
