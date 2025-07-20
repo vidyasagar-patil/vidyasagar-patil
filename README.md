@@ -71,8 +71,16 @@ Welcome to **Vidyasagar Patil**
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidyasagar-patil&show_icons=true&theme=tokyonight)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vidyasagar-patil&show_icons=true&theme=tokyonight" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar-patil&layout=compact&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 Top Tools & Languages
