@@ -77,8 +77,9 @@ Welcome to **Vidyasagar Patil**
 
 ## 📊 Top Tools & Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar-patil&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyasagar-patil&layout=compact&theme=tokyonight" width="100%" />
+</p>
 ---
 
 ![DevOps](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
